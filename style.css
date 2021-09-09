@@ -113,3 +113,7 @@ html{
     top: 25px;
     right: 0;
 }
+
+a{
+    text-decoration: none;
+}
